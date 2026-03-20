@@ -49,4 +49,4 @@ class Solution {
         if (top3.size() > 3)
             top3.pollFirst(); // remove smallest
     }
-}
+} 
