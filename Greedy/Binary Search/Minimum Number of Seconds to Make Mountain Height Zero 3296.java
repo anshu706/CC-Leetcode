@@ -26,4 +26,4 @@ class Solution {
         // wt * x*(x+1)/2 <= t  =>  x^2 + x - 2t/wt <= 0
         return (long) ((-1 + Math.sqrt(1 + 8.0 * t / wt)) / 2);
     }
-}
+} 
