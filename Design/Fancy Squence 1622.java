@@ -40,4 +40,4 @@ class Fancy {
         if (idx >= seq.size()) return -1;
         return (int)((seq.get(idx) * m % MOD + a) % MOD);
     }
-}
+} 
