@@ -34,7 +34,7 @@ class Solution {
                 dpMin[i][j] = Math.min(Math.min(fromTop_max, fromTop_min),
                                        Math.min(fromLeft_max, fromLeft_min));
             }
-        }
+        } 
 
         long result = dpMax[m-1][n-1];
         if (result < 0) return -1;
