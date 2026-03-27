@@ -101,4 +101,4 @@ class Solution {
 
         return mp.getOrDefault(diff, 0) > 0;
     }
-}
+} 
