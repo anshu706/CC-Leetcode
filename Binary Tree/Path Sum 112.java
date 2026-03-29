@@ -27,4 +27,4 @@ class Solution {
         int remaining = targetSum - root.val;
         return hasPathSum(root.left, remaining) || hasPathSum(root.right, remaining);
     }
-}
+} 
