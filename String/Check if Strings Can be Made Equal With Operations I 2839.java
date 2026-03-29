@@ -14,4 +14,4 @@ class Solution {
 
         return evenMatch && oddMatch;
     }
-}
+} 
