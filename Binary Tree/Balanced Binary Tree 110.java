@@ -33,3 +33,4 @@ class Solution {
         return 1 + Math.max(left, right);   // return height to parent
     }
 }
+ 
