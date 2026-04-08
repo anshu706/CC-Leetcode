@@ -47,4 +47,4 @@ class Robot {
         else if(i==2) return "West";
         else return "South";
     }
-}
+} 
