@@ -48,4 +48,4 @@ class Solution {
         int r2 = b / 6, c2 = b % 6;
         return Math.abs(r1 - r2) + Math.abs(c1 - c2);
     }
-}
+} 
