@@ -10,4 +10,4 @@ class Solution {
 
         return Math.abs(L-R) + blank;
     }
-}
+} 
